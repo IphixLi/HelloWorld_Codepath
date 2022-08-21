@@ -26,7 +26,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 - I had challenge choosing good api for android emulator
-- I am also completely new t Kotlin and mobile development, so understanding syntax was the challenge
+- I am also completely new to Kotlin and mobile development, so understanding syntax was the challenge
 ## License
 
     Copyright [2022] [Iphigenie Bera]

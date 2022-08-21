@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='app/HelloWorld_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='app/HelloWorld_walkthough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
 
